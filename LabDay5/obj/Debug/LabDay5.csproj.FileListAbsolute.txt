@@ -1,0 +1,7 @@
+F:\ITI\C#\5\LabDay5\LabDay5\bin\Debug\LabDay5.exe.config
+F:\ITI\C#\5\LabDay5\LabDay5\bin\Debug\LabDay5.exe
+F:\ITI\C#\5\LabDay5\LabDay5\bin\Debug\LabDay5.pdb
+F:\ITI\C#\5\LabDay5\LabDay5\obj\Debug\LabDay5.csprojAssemblyReference.cache
+F:\ITI\C#\5\LabDay5\LabDay5\obj\Debug\LabDay5.csproj.CoreCompileInputs.cache
+F:\ITI\C#\5\LabDay5\LabDay5\obj\Debug\LabDay5.exe
+F:\ITI\C#\5\LabDay5\LabDay5\obj\Debug\LabDay5.pdb
